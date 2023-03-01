@@ -1,0 +1,20 @@
+body {background-color: #EAF6F6;
+      margin-top: 0;
+      margin-left: 0;
+      margin-right: 0;
+      font-family: cursive;
+}
+.start{
+  background-color: #CFF5E7;
+}
+
+h1{color: #66BFBF;
+  text-align: center;
+  margin-top: 160px;
+  font-family: cursive;
+
+}
+
+h4{color:black;
+   text-align: right;
+}
