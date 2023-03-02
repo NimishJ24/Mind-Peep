@@ -20,11 +20,13 @@ body{
 }
 
 .header{
-	background-color: #fff;
+	background-color: transparent;
+	width: 100%;
+	height: 75px;
 }
 
 .button-35 a {
-  display: block;
+	display: block;
 	text-align: center;
 	position: relative;
 	
@@ -36,7 +38,6 @@ body{
 .page-heading {
   color: #66BFBF;
   text-align: center;
-  margin-top: 160px;
   font-family: cursive;
   font-size:7vw;
 
